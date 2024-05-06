@@ -20,11 +20,11 @@ Data and evaluation code for the paper ["ALERT: A Comprehensive Benchmark for As
 
 <br>
 
-# Paper Summary
+# Problem Statement
 When building Large Language Models (LLMs), it is paramount to bear **safety** in mind and protect them with guardrails. Indeed, **LLMs should
 never generate content promoting or normalizing harmful, illegal, or unethical behavior** that may contribute to harm to individuals or society. 
 
-In response to this critical challenge, we introduce **ALERT, a large-scale benchmark to assess the safety of
+In response to this critical challenge, **ALERT, a large-scale benchmark is used to assess the safety of
 LLMs** through **red teaming** methodologies. The overall ALERT framework is depicted below.
 
 ![framework](img/alert_overview.png)
@@ -37,7 +37,7 @@ evaluation of compliance across various policies or contexts. The following pict
 
 ![taxonomy](img/taxonomy.png)
 
-In our experiments, **we extensively evaluate several open- and closed-source LLMs**, highlighting their strengths and weaknesses. More details are provided [Experiments](#experiments) Section below. 
+In the experiments, **we extensively evaluated several open-source LLMs**, highlighting their strengths and weaknesses. More details are provided [Experiments](#experiments) Section below. 
 
 <br>
 
