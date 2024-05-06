@@ -18,19 +18,6 @@
 
 Data and evaluation code for the paper ["ALERT: A Comprehensive Benchmark for Assessing Large Language Models’ Safety through Red Teaming"](https://arxiv.org/abs/2404.08676).
 
-```bibtex
-@misc{tedeschi2024alert,
-      title={ALERT: A Comprehensive Benchmark for Assessing Large Language Models' Safety through Red Teaming}, 
-      author={Simone Tedeschi and Felix Friedrich and Patrick Schramowski and Kristian Kersting and Roberto Navigli and Huu Nguyen and Bo Li},
-      year={2024},
-      eprint={2404.08676},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
-
-**Please consider citing our work if you use any findings, data, or code from this repository.**
-
 <br>
 
 # Paper Summary
