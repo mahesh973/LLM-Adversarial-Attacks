@@ -1,7 +1,7 @@
 # LLM-Adversarial-Safety
 
 # Introduction
-When building Large Language Models (LLMs), it is paramount to bear **safety** in mind and protect them with guardrails. Indeed, **LLMs should
+When building Large Language Models (LLMs), it is important to keep **safety** in mind and protect them with guardrails. Indeed, **LLMs should
 never generate content promoting or normalizing harmful, illegal, or unethical behavior** that may contribute to harm to individuals or society. 
 
 Andrej Karpathy discussed three types of jailbreak attacks that can manipulate large language models (LLMs) into generating harmful or misleading outputs:
