@@ -10,7 +10,7 @@ The three common types of jailbreak attacks that can manipulate large language m
 2. **Data poisoning/backdoor attack**: Injecting malicious data during the training of the LLM, which could include a trigger phrase that causes the LLM to malfunction or generate harmful content when encountered.
 3. **Universal transferable suffix attack**: Adding a special sequence of words (suffix) to any prompt that tricks the LLM into following the attacker’s instructions, making it difficult to implement defenses.
 
-## JailBreak Attack(Using Universally Transferable Suffix)
+## JailBreak Attack on GPT-3.5 (Using Universally Transferable Suffix)
 
 ![Screenshot 2024-05-06 at 11 24 21 AM](https://github.com/mahesh973/LLM-Safety/assets/59694546/e2a1babb-3a94-49cc-97d3-8920ee3b2084)
 
