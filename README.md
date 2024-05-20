@@ -1,4 +1,4 @@
-# LLM-Adversarial-Safety
+# LLM-Adversarial-Attacks
 
 # Introduction
 When building Large Language Models (LLMs), it is important to keep **safety** in mind and protect them with guardrails. Indeed, **LLMs should
